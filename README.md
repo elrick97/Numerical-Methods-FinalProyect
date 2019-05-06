@@ -34,7 +34,7 @@ For our final project of our numerical methods class we were asked to create a p
 
 # IMPORTANT NOTES
 
-###*Remember when using the method "**Simpson 1/3**" you should have an even number of parabolas*
+Remember when using the method "**Simpson 1/3**" you should have an even number of parabolas
 
 ### Contributors:
 
